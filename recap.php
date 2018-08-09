@@ -92,7 +92,7 @@
 
 <strong>Note: </strong>Les sandwitch(s) seront prêt(s) dans: <strong>5mn</strong>
 </body>
-</html>
+</html>//html closing 
 
 
 
